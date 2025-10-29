@@ -8,7 +8,7 @@
 #'  cube(2)
 #'  cube(c(1,2,3))
 #'
-#'  @export
+#' @export
 cube<-function(x){
   return(x^3)
 }
