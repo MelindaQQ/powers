@@ -1,10 +1,7 @@
 ---
-Title: README
 output: github_document
 ---
-
-example of R package 
-
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -15,20 +12,16 @@ knitr::opts_chunk$set(
 )
 ```
 
-# powers
+# powers Package
 
-<!-- badges: start -->
-<!-- badges: end -->
+This is a minimal working example of my first R Package for STAT545!
 
-The goal of powers is to ...
 
 ## Installation
 
 You can install the development version of powers like so:
-
-``` r
-# devtools::install_github()
-```
+Package installation can be done directly by calling 
+`devtools::install_github("MelindaQQ/powers")`
 
 ## Example
 
